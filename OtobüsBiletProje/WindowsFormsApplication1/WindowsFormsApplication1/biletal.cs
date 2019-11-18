@@ -281,8 +281,8 @@ namespace WindowsFormsApplication1
 
                        String testXml = "<request>";
                        testXml += "<authentication>";
-                       testXml += "<username>5318124237</username>";
-                       testXml += "<password>sissoko1453</password>";
+                       testXml += "<username>//telno</username>";
+                       testXml += "<password>//şifre</password>";
                        testXml += "</authentication>";
                        testXml += "<order>";
                        testXml += "<sender>i.DOGAN</sender>";
