@@ -13,7 +13,7 @@ namespace WindowsFormsApplication1
     public partial class Form1 : Form
     {
         public seferekle sefereklee;
-        public otobüsekle otobuseklee;
+        public otobusekle otobuseklee;
         public biletbul biletbull;
        
 
@@ -22,7 +22,7 @@ namespace WindowsFormsApplication1
 
             InitializeComponent();
             sefereklee = new seferekle();
-            otobuseklee = new otobüsekle();
+            otobuseklee = new otobusekle();
             biletbull = new biletbul();
            
         }
@@ -75,7 +75,7 @@ namespace WindowsFormsApplication1
             Form1 formkapa = new Form1();
             formkapa.Close();
 
-            otobüsekle btt = new otobüsekle();
+            otobusekle btt = new otobusekle();
             btt.Show();
             this.Hide();
             

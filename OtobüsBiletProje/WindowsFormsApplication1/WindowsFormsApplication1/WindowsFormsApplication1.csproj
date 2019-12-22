@@ -76,11 +76,11 @@
     <Compile Include="otobusduzenle.Designer.cs">
       <DependentUpon>otobusduzenle.cs</DependentUpon>
     </Compile>
-    <Compile Include="otobüsekle.cs">
+    <Compile Include="otobusekle.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="otobüsekle.Designer.cs">
-      <DependentUpon>otobüsekle.cs</DependentUpon>
+    <Compile Include="otobusekle.Designer.cs">
+      <DependentUpon>otobusekle.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -111,8 +111,8 @@
     <EmbeddedResource Include="otobusduzenle.resx">
       <DependentUpon>otobusduzenle.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="otobüsekle.resx">
-      <DependentUpon>otobüsekle.cs</DependentUpon>
+    <EmbeddedResource Include="otobusekle.resx">
+      <DependentUpon>otobusekle.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

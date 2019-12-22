@@ -11,9 +11,9 @@ using System.Data.SqlClient;
 
 namespace WindowsFormsApplication1
 {
-    public partial class otobüsekle : Form
+    public partial class otobusekle : Form
     {
-        public otobüsekle()
+        public otobusekle()
         {
             InitializeComponent();
         }
@@ -66,7 +66,7 @@ namespace WindowsFormsApplication1
 
         private void button3_Click(object sender, EventArgs e)
         {
-            otobüsekle kapat = new otobüsekle();
+            otobusekle kapat = new otobusekle();
             kapat.Close();
 
             Form1 btt = new Form1();

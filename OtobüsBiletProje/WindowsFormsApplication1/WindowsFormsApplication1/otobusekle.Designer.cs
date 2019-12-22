@@ -1,6 +1,6 @@
 ﻿namespace WindowsFormsApplication1
 {
-    partial class otobüsekle
+    partial class otobusekle
     {
         /// <summary>
         /// Required designer variable.
